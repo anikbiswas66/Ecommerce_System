@@ -1,0 +1,46 @@
+[
+    {
+        "fullname": "Anik",
+        "username": "sdfgsdf",
+        "email": "sfasdf",
+        "password": "sdfsdf",
+        "address": "sdfgaf",
+        "phoneno": "sfdf",
+        "nid": "sfsdf",
+        "gender": "Male",
+        "dob": "2021-10-04"
+    },
+    {
+        "fullname": "Anik",
+        "username": "anik",
+        "email": "check@gmail.com",
+        "password": "1234",
+        "address": "Dhaka",
+        "phoneno": "01010101",
+        "nid": "654465784",
+        "gender": "Male",
+        "dob": "2021-10-04"
+    },
+    {
+        "fullname": "Check 2",
+        "username": "check",
+        "email": "defsfde",
+        "password": "sgfdsg",
+        "address": "wsefrdatrewf",
+        "phoneno": "sdafsdwf",
+        "nid": "sdrftgrewsdtd",
+        "gender": "Female",
+        "dob": "2021-10-04"
+    },
+    {
+        "fullname": "Check 2",
+        "username": "check",
+        "email": "defsfde",
+        "password": "sgfdsg",
+        "address": "wsefrdatrewf",
+        "phoneno": "sdafsdwf",
+        "nid": "sdrftgrewsdtd",
+        "gender": "Female",
+        "dob": "2021-10-04"
+    }
+]
